@@ -16,9 +16,7 @@ Projeto elaborado para desenvolver habilidades de HTML e CSS.
 
 <br>
 
-<p align="center">
-  <img alt="Capa do projeto" src=".github/preview.jpg" width="50%">
-</p>
+![logo do projeto](https://github.com/AllanBichler/Projeto1_RocketSeat/blob/main/Projeto_1_stage2.png?raw=true)
 
 ## 🚀 Tecnologias
 
@@ -36,6 +34,3 @@ Este é um projeto em HTML que se destina a criar uma página web para promover 
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/WJuLMZ3EpDNaLhXZZnl8RM/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
